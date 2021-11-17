@@ -1,0 +1,33 @@
+
+ping -c 25 flipkart.com | grep rtt >> ping_results.txt
+ping -c 25 programmingwithmosh.com  | grep rtt >> ping_results.txt
+ping -c 25 udp.jp  | grep rtt >> ping_results.txt
+ping -c 25 gunjap.net  | grep rtt >> ping_results.txt
+ping -c 25 amazon.com  | grep rtt >> ping_results.txt
+ping -c 25 yuppiechef.com  | grep rtt >> ping_results.txt
+
+PING RESULTS 1:30 AM IST 15/09/2020
+rtt min/avg/max/mdev = 43.572/47.920/64.850/5.317 ms
+rtt min/avg/max/mdev = 116.992/119.866/139.551/4.555 ms
+rtt min/avg/max/mdev = 144.233/147.253/159.371/3.665 ms
+rtt min/avg/max/mdev = 186.035/188.608/201.743/3.595 ms
+rtt min/avg/max/mdev = 258.847/264.400/292.944/7.897 ms
+rtt min/avg/max/mdev = 446.481/452.023/508.329/12.125 ms
+
+PING RESULTS 12:15 PM IST 15/09/2020
+
+rtt min/avg/max/mdev = 45.450/48.760/60.263/4.056 ms
+rtt min/avg/max/mdev = 117.838/120.300/145.765/5.338 ms
+rtt min/avg/max/mdev = 143.579/146.446/160.823/3.659 ms
+rtt min/avg/max/mdev = 168.523/170.653/192.939/4.734 ms
+rtt min/avg/max/mdev = 253.442/255.504/263.803/2.278 ms
+rtt min/avg/max/mdev = 438.647/440.507/448.165/2.051 ms
+
+PING RESULTS 11:00 PM IST 15/09/2020
+
+rtt min/avg/max/mdev = 43.008/46.295/60.632/3.582 ms
+rtt min/avg/max/mdev = 118.236/147.991/226.128/36.390 ms
+rtt min/avg/max/mdev = 139.513/174.317/240.575/32.631 ms
+rtt min/avg/max/mdev = 185.037/222.931/288.378/33.384 ms
+rtt min/avg/max/mdev = 265.277/294.830/367.094/31.944 ms
+rtt min/avg/max/mdev = 442.159/473.727/544.077/33.716 ms

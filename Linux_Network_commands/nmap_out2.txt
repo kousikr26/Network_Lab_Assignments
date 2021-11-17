@@ -1,0 +1,351 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-09-17 22:37 IST
+Initiating Ping Scan at 22:37
+Scanning 256 hosts [2 ports/host]
+Completed Ping Scan at 22:37, 2.00s elapsed (256 total hosts)
+Initiating Parallel DNS resolution of 256 hosts. at 22:37
+Completed Parallel DNS resolution of 256 hosts. at 22:39, 117.00s elapsed
+Nmap scan report for 172.16.114.0 [host down]
+Nmap scan report for 172.16.114.1 [host down]
+Nmap scan report for 172.16.114.2
+Host is up (0.00052s latency).
+Nmap scan report for 172.16.114.3 [host down]
+Nmap scan report for 172.16.114.4 [host down]
+Nmap scan report for 172.16.114.5 [host down]
+Nmap scan report for 172.16.114.6 [host down]
+Nmap scan report for 172.16.114.7
+Host is up (0.00047s latency).
+Nmap scan report for 172.16.114.8 [host down]
+Nmap scan report for 172.16.114.9 [host down]
+Nmap scan report for 172.16.114.10 [host down]
+Nmap scan report for 172.16.114.11 [host down]
+Nmap scan report for 172.16.114.12 [host down]
+Nmap scan report for 172.16.114.13 [host down]
+Nmap scan report for 172.16.114.14 [host down]
+Nmap scan report for 172.16.114.15 [host down]
+Nmap scan report for 172.16.114.16 [host down]
+Nmap scan report for 172.16.114.17 [host down]
+Nmap scan report for 172.16.114.18 [host down]
+Nmap scan report for 172.16.114.19 [host down]
+Nmap scan report for 172.16.114.20 [host down]
+Nmap scan report for 172.16.114.21 [host down]
+Nmap scan report for 172.16.114.22 [host down]
+Nmap scan report for 172.16.114.23 [host down]
+Nmap scan report for 172.16.114.24 [host down]
+Nmap scan report for 172.16.114.25 [host down]
+Nmap scan report for 172.16.114.26 [host down]
+Nmap scan report for 172.16.114.27 [host down]
+Nmap scan report for 172.16.114.28 [host down]
+Nmap scan report for 172.16.114.29 [host down]
+Nmap scan report for 172.16.114.30 [host down]
+Nmap scan report for 172.16.114.31 [host down]
+Nmap scan report for 172.16.114.32 [host down]
+Nmap scan report for 172.16.114.33 [host down]
+Nmap scan report for 172.16.114.34 [host down]
+Nmap scan report for 172.16.114.35 [host down]
+Nmap scan report for 172.16.114.36 [host down]
+Nmap scan report for 172.16.114.37 [host down]
+Nmap scan report for 172.16.114.38 [host down]
+Nmap scan report for 172.16.114.39 [host down]
+Nmap scan report for 172.16.114.40 [host down]
+Nmap scan report for 172.16.114.41 [host down]
+Nmap scan report for 172.16.114.42 [host down]
+Nmap scan report for 172.16.114.43 [host down]
+Nmap scan report for 172.16.114.44 [host down]
+Nmap scan report for 172.16.114.45 [host down]
+Nmap scan report for 172.16.114.46 [host down]
+Nmap scan report for 172.16.114.47 [host down]
+Nmap scan report for 172.16.114.48 [host down]
+Nmap scan report for 172.16.114.49 [host down]
+Nmap scan report for 172.16.114.50 [host down]
+Nmap scan report for 172.16.114.51 [host down]
+Nmap scan report for 172.16.114.52 [host down]
+Nmap scan report for 172.16.114.53 [host down]
+Nmap scan report for 172.16.114.54 [host down]
+Nmap scan report for 172.16.114.55 [host down]
+Nmap scan report for 172.16.114.56 [host down]
+Nmap scan report for 172.16.114.57 [host down]
+Nmap scan report for 172.16.114.58 [host down]
+Nmap scan report for 172.16.114.59 [host down]
+Nmap scan report for 172.16.114.60 [host down]
+Nmap scan report for 172.16.114.61 [host down]
+Nmap scan report for 172.16.114.62 [host down]
+Nmap scan report for 172.16.114.63 [host down]
+Nmap scan report for 172.16.114.64 [host down]
+Nmap scan report for 172.16.114.65 [host down]
+Nmap scan report for 172.16.114.66 [host down]
+Nmap scan report for 172.16.114.67 [host down]
+Nmap scan report for 172.16.114.68 [host down]
+Nmap scan report for 172.16.114.69 [host down]
+Nmap scan report for 172.16.114.70 [host down]
+Nmap scan report for 172.16.114.71 [host down]
+Nmap scan report for 172.16.114.72 [host down]
+Nmap scan report for 172.16.114.73 [host down]
+Nmap scan report for 172.16.114.74 [host down]
+Nmap scan report for 172.16.114.75 [host down]
+Nmap scan report for 172.16.114.76 [host down]
+Nmap scan report for 172.16.114.77 [host down]
+Nmap scan report for 172.16.114.78 [host down]
+Nmap scan report for 172.16.114.79 [host down]
+Nmap scan report for 172.16.114.80 [host down]
+Nmap scan report for 172.16.114.81 [host down]
+Nmap scan report for 172.16.114.82 [host down]
+Nmap scan report for 172.16.114.83 [host down]
+Nmap scan report for 172.16.114.84 [host down]
+Nmap scan report for 172.16.114.85 [host down]
+Nmap scan report for 172.16.114.86 [host down]
+Nmap scan report for 172.16.114.87 [host down]
+Nmap scan report for 172.16.114.88 [host down]
+Nmap scan report for 172.16.114.89 [host down]
+Nmap scan report for 172.16.114.90 [host down]
+Nmap scan report for 172.16.114.91 [host down]
+Nmap scan report for 172.16.114.92 [host down]
+Nmap scan report for 172.16.114.93 [host down]
+Nmap scan report for 172.16.114.94 [host down]
+Nmap scan report for 172.16.114.95 [host down]
+Nmap scan report for 172.16.114.96 [host down]
+Nmap scan report for 172.16.114.97 [host down]
+Nmap scan report for 172.16.114.98 [host down]
+Nmap scan report for 172.16.114.99 [host down]
+Nmap scan report for 172.16.114.100 [host down]
+Nmap scan report for 172.16.114.101 [host down]
+Nmap scan report for 172.16.114.102 [host down]
+Nmap scan report for 172.16.114.103 [host down]
+Nmap scan report for 172.16.114.104 [host down]
+Nmap scan report for 172.16.114.105 [host down]
+Nmap scan report for 172.16.114.106 [host down]
+Nmap scan report for 172.16.114.107 [host down]
+Nmap scan report for 172.16.114.108 [host down]
+Nmap scan report for 172.16.114.109 [host down]
+Nmap scan report for 172.16.114.110 [host down]
+Nmap scan report for 172.16.114.111 [host down]
+Nmap scan report for 172.16.114.112 [host down]
+Nmap scan report for 172.16.114.113 [host down]
+Nmap scan report for 172.16.114.114 [host down]
+Nmap scan report for 172.16.114.115 [host down]
+Nmap scan report for 172.16.114.116 [host down]
+Nmap scan report for 172.16.114.117 [host down]
+Nmap scan report for 172.16.114.118 [host down]
+Nmap scan report for 172.16.114.119 [host down]
+Nmap scan report for 172.16.114.120 [host down]
+Nmap scan report for 172.16.114.121 [host down]
+Nmap scan report for 172.16.114.122 [host down]
+Nmap scan report for 172.16.114.123 [host down]
+Nmap scan report for 172.16.114.124 [host down]
+Nmap scan report for 172.16.114.125 [host down]
+Nmap scan report for 172.16.114.126 [host down]
+Nmap scan report for 172.16.114.127 [host down]
+Nmap scan report for 172.16.114.128 [host down]
+Nmap scan report for 172.16.114.129 [host down]
+Nmap scan report for 172.16.114.130 [host down]
+Nmap scan report for 172.16.114.131 [host down]
+Nmap scan report for 172.16.114.132
+Host is up (0.00048s latency).
+Nmap scan report for 172.16.114.133 [host down]
+Nmap scan report for 172.16.114.134
+Host is up (0.00046s latency).
+Nmap scan report for 172.16.114.135
+Host is up (0.00067s latency).
+Nmap scan report for 172.16.114.136 [host down]
+Nmap scan report for 172.16.114.137
+Host is up (0.00056s latency).
+Nmap scan report for 172.16.114.138 [host down]
+Nmap scan report for 172.16.114.139
+Host is up (0.00050s latency).
+Nmap scan report for 172.16.114.140
+Host is up (0.00047s latency).
+Nmap scan report for 172.16.114.141
+Host is up (0.00044s latency).
+Nmap scan report for 172.16.114.142
+Host is up (0.00050s latency).
+Nmap scan report for 172.16.114.143
+Host is up (0.00037s latency).
+Nmap scan report for 172.16.114.144
+Host is up (0.00042s latency).
+Nmap scan report for 172.16.114.145
+Host is up (0.0023s latency).
+Nmap scan report for 172.16.114.146 [host down]
+Nmap scan report for 172.16.114.147 [host down]
+Nmap scan report for 172.16.114.148
+Host is up (0.00040s latency).
+Nmap scan report for 172.16.114.149
+Host is up (0.00030s latency).
+Nmap scan report for 172.16.114.150
+Host is up (0.0021s latency).
+Nmap scan report for 172.16.114.151
+Host is up (0.00027s latency).
+Nmap scan report for 172.16.114.152
+Host is up (0.00026s latency).
+Nmap scan report for 172.16.114.153
+Host is up (0.00046s latency).
+Nmap scan report for 172.16.114.154 [host down]
+Nmap scan report for 172.16.114.155
+Host is up (0.0016s latency).
+Nmap scan report for 172.16.114.156
+Host is up (0.0015s latency).
+Nmap scan report for 172.16.114.157 [host down]
+Nmap scan report for 172.16.114.158 [host down]
+Nmap scan report for 172.16.114.159
+Host is up (0.0015s latency).
+Nmap scan report for 172.16.114.160
+Host is up (0.0014s latency).
+Nmap scan report for 172.16.114.161
+Host is up (0.0014s latency).
+Nmap scan report for 172.16.114.162
+Host is up (0.0014s latency).
+Nmap scan report for 172.16.114.163 [host down]
+Nmap scan report for 172.16.114.164
+Host is up (0.0013s latency).
+Nmap scan report for 172.16.114.165
+Host is up (0.0013s latency).
+Nmap scan report for 172.16.114.166
+Host is up (0.0012s latency).
+Nmap scan report for 172.16.114.167 [host down]
+Nmap scan report for 172.16.114.168 [host down]
+Nmap scan report for 172.16.114.169
+Host is up (0.0012s latency).
+Nmap scan report for 172.16.114.170
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.114.171
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.114.172
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.114.173 [host down]
+Nmap scan report for 172.16.114.174
+Host is up (0.0010s latency).
+Nmap scan report for 172.16.114.175
+Host is up (0.00097s latency).
+Nmap scan report for 172.16.114.176
+Host is up (0.00094s latency).
+Nmap scan report for 172.16.114.177
+Host is up (0.00091s latency).
+Nmap scan report for 172.16.114.178
+Host is up (0.00088s latency).
+Nmap scan report for 172.16.114.179
+Host is up (0.00085s latency).
+Nmap scan report for 172.16.114.180
+Host is up (0.00082s latency).
+Nmap scan report for 172.16.114.181
+Host is up (0.00079s latency).
+Nmap scan report for 172.16.114.182
+Host is up (0.00076s latency).
+Nmap scan report for 172.16.114.183
+Host is up (0.00072s latency).
+Nmap scan report for 172.16.114.184
+Host is up (0.00069s latency).
+Nmap scan report for 172.16.114.185
+Host is up (0.00066s latency).
+Nmap scan report for 172.16.114.186 [host down]
+Nmap scan report for 172.16.114.187
+Host is up (0.00060s latency).
+Nmap scan report for 172.16.114.188
+Host is up (0.00057s latency).
+Nmap scan report for 172.16.114.189
+Host is up (0.00052s latency).
+Nmap scan report for 172.16.114.190 [host down]
+Nmap scan report for 172.16.114.191
+Host is up (0.00045s latency).
+Nmap scan report for 172.16.114.192
+Host is up (0.00042s latency).
+Nmap scan report for 172.16.114.193
+Host is up (0.00039s latency).
+Nmap scan report for 172.16.114.194
+Host is up (0.00037s latency).
+Nmap scan report for 172.16.114.195 [host down]
+Nmap scan report for 172.16.114.196
+Host is up (0.00031s latency).
+Nmap scan report for 172.16.114.197
+Host is up (0.00028s latency).
+Nmap scan report for 172.16.114.198
+Host is up (0.00024s latency).
+Nmap scan report for 172.16.114.199
+Host is up (0.00057s latency).
+Nmap scan report for 172.16.114.200
+Host is up (0.00054s latency).
+Nmap scan report for 172.16.114.201
+Host is up (0.0024s latency).
+Nmap scan report for 172.16.114.202
+Host is up (0.00048s latency).
+Nmap scan report for 172.16.114.203
+Host is up (0.00045s latency).
+Nmap scan report for 172.16.114.204
+Host is up (0.00041s latency).
+Nmap scan report for 172.16.114.205 [host down]
+Nmap scan report for 172.16.114.206
+Host is up (0.00039s latency).
+Nmap scan report for 172.16.114.207
+Host is up (0.0017s latency).
+Nmap scan report for 172.16.114.208
+Host is up (0.0017s latency).
+Nmap scan report for 172.16.114.209
+Host is up (0.0016s latency).
+Nmap scan report for 172.16.114.210
+Host is up (0.0016s latency).
+Nmap scan report for 172.16.114.211 [host down]
+Nmap scan report for 172.16.114.212
+Host is up (0.0015s latency).
+Nmap scan report for 172.16.114.213
+Host is up (0.0015s latency).
+Nmap scan report for 172.16.114.214
+Host is up (0.0015s latency).
+Nmap scan report for 172.16.114.215
+Host is up (0.0014s latency).
+Nmap scan report for 172.16.114.216 [host down]
+Nmap scan report for 172.16.114.217 [host down]
+Nmap scan report for 172.16.114.218
+Host is up (0.0014s latency).
+Nmap scan report for 172.16.114.219 [host down]
+Nmap scan report for 172.16.114.220
+Host is up (0.0013s latency).
+Nmap scan report for 172.16.114.221
+Host is up (0.0012s latency).
+Nmap scan report for 172.16.114.222
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.114.223
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.114.224
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.114.225 [host down]
+Nmap scan report for 172.16.114.226
+Host is up (0.00100s latency).
+Nmap scan report for 172.16.114.227
+Host is up (0.00097s latency).
+Nmap scan report for 172.16.114.228
+Host is up (0.00094s latency).
+Nmap scan report for 172.16.114.229 [host down]
+Nmap scan report for 172.16.114.230 [host down]
+Nmap scan report for 172.16.114.231 [host down]
+Nmap scan report for 172.16.114.232 [host down]
+Nmap scan report for 172.16.114.233
+Host is up (0.00079s latency).
+Nmap scan report for 172.16.114.234 [host down]
+Nmap scan report for 172.16.114.235
+Host is up (0.00073s latency).
+Nmap scan report for 172.16.114.236 [host down]
+Nmap scan report for 172.16.114.237 [host down]
+Nmap scan report for 172.16.114.238 [host down]
+Nmap scan report for 172.16.114.239 [host down]
+Nmap scan report for 172.16.114.240
+Host is up (0.00057s latency).
+Nmap scan report for 172.16.114.241 [host down]
+Nmap scan report for 172.16.114.242 [host down]
+Nmap scan report for 172.16.114.243
+Host is up (0.00048s latency).
+Nmap scan report for 172.16.114.244 [host down]
+Nmap scan report for 172.16.114.245
+Host is up (0.00066s latency).
+Nmap scan report for 172.16.114.246 [host down]
+Nmap scan report for 172.16.114.247
+Host is up (0.00060s latency).
+Nmap scan report for 172.16.114.248
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.114.249
+Host is up (0.00054s latency).
+Nmap scan report for 172.16.114.250 [host down]
+Nmap scan report for 172.16.114.251 [host down]
+Nmap scan report for 172.16.114.252 [host down]
+Nmap scan report for 172.16.114.253 [host down]
+Nmap scan report for 172.16.114.254 [host down]
+Nmap scan report for 172.16.114.255 [host down]
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 256 IP addresses (86 hosts up) scanned in 119.02 seconds

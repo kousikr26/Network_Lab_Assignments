@@ -1,0 +1,11 @@
+#!/bin/bash
+
+a=64
+while [ $a -lt 2049 ]
+do
+    
+    `echo $a >> ping_size.txt`
+    `sudo ping -c 5 interviewbit.com -s $a -q | grep rtt >> ping_size2
+.txt`
+    a=`expr $a + 50`
+done
