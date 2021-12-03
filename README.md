@@ -663,6 +663,7 @@ After each query of client and proxy server the socket connection is gracefully 
 
 
 **Network Configuration:**
+![image](https://user-images.githubusercontent.com/45571579/144579026-5764690c-2a77-46e2-9812-0e5ab29a662d.png)
 
 - The Network consists of two routers R1 and R2 connected with a link (10Mbps,100ms)
 - The hosts of the network are connected to the routers with (100Mbps,10ms) links. Router 1 is connected to H1, H2, H3, and Router 2 is connected to H4, H5, and H6.
